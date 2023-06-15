@@ -67,4 +67,4 @@ https://zp2nl7h4m5.execute-api.us-east-2.amazonaws.com/default/HelloWorldLambda
 
 ## Screenshots
 
-
+![alt text](resources/screenshots/screenshot_postman.jpg)
